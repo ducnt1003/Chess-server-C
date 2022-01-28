@@ -1,0 +1,7 @@
+2
+1,2
+p2,WIN
+p2,LOSE
+2,2
+p1,LOSE
+p1,WIN
